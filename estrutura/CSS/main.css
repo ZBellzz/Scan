@@ -179,7 +179,8 @@ svg{
     color: white;
     text-decoration: none;
     line-height: 1.2;
-  
+    display: flex;
+    flex-direction: column;
 }
 
 
